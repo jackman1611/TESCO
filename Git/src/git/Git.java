@@ -6,7 +6,8 @@ public class Git {
         System.out.println("Hola mundo");
         /**Marca de modificacion**/
         /** esto cambio**/
-        System.err.println("");
+        System.out.println("hello");
+System.out.println("Agregado desde otro punto");
     }
     
 }
